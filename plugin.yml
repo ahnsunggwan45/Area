@@ -1,0 +1,5 @@
+name: Area
+author: ojy
+main: ojy\area\AreaPlugin
+api: [4.0.0]
+version: B1
